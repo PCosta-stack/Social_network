@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>imagenes/usuario.png</file>
+        <file>imagenes/LOG OUT icon.png</file>
+        <file>imagenes/log_in ICON.png</file>
+        <file>imagenes/Logo_socialNetwork.png</file>
+        <file>imagenes/Ragin_LOGIN.jpg</file>
+        <file>imagenes/68213.png</file>
+        <file>imagenes/trend ICON.png</file>
+    </qresource>
+</RCC>
